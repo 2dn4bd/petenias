@@ -1,0 +1,365 @@
+    [
+        {
+        "category": "Dogs",
+        "pet_name": "Buddy",
+        "pet_image": "https://i.ibb.co/VvvMp1p/dog1.jpg",
+        "pet_age": 3,
+        "pet_location": "City Park",
+        "short_description": "Friendly and active",
+        "long_description": "Buddy is a playful dog who loves outdoor activities. Good with kids and other pets.",
+        "adopted": "false"
+        },
+        {
+        "category": "Dogs",
+        "pet_name": "Max",
+        "pet_image": "https://i.ibb.co/R7sKdsm/dog2.jpg",
+        "pet_age": 2,
+        "pet_location": "Suburban Home",
+        "short_description": "Energetic and loyal",
+        "long_description": "Max is a loyal companion with lots of energy. Enjoys long walks and playtime in the backyard.",
+        "adopted": "false"
+        },
+        {
+        "category": "Dogs",
+        "pet_name": "Lucy",
+        "pet_image": "https://i.ibb.co/HDd4nJY/dog3.jpg",
+        "pet_age": 4,
+        "pet_location": "Rural Farm",
+        "short_description": "Gentle and affectionate",
+        "long_description": "Lucy is a gentle dog with a loving heart. Adores cuddles and is great with children.",
+        "adopted": "false"
+        },
+        {
+        "category": "Dogs",
+        "pet_name": "Rocky",
+        "pet_image": "https://i.ibb.co/dJL5Q1x/dog4.jpg",
+        "pet_age": 2,
+        "pet_location": "Mountain Retreat",
+        "short_description": "Strong and playful",
+        "long_description": "Rocky is a strong and playful dog, perfect for an active family. Enjoys hiking and outdoor adventures.",
+        "adopted": "false"
+        },
+        {
+        "category": "Dogs",
+        "pet_name": "Luna",
+        "pet_image": "https://i.ibb.co/ChbB4Mj/dog5.jpg",
+        "pet_age": 1,
+        "pet_location": "Beach House",
+        "short_description": "Energetic and affectionate",
+        "long_description": "Luna is an energetic and affectionate pup. Loves playing fetch on the beach and cuddling up after a day of fun.",
+        "adopted": "false"
+        },
+        {
+        "category": "Dogs",
+        "pet_name": "Charlie",
+        "pet_image": "https://i.ibb.co/n6vZ55m/dog6.jpg",
+        "pet_age": 3,
+        "pet_location": "Suburban Bliss",
+        "short_description": "Friendly and loyal",
+        "long_description": "Charlie is a friendly and loyal companion. Enjoys walks in the neighborhood and is great with kids and other pets.",
+        "adopted": "false"
+        },
+        {
+        "category": "Dogs",
+        "pet_name": "Daisy",
+        "pet_image": "https://i.ibb.co/FVffcFW/dog7.jpg",
+        "pet_age": 4,
+        "pet_location": "Country Farm",
+        "short_description": "Gentle and sweet",
+        "long_description": "Daisy is a gentle and sweet dog with a calm demeanor. Perfect for a loving family seeking a loyal friend.",
+        "adopted": "false"
+        },
+        {
+        "category": "Dogs",
+        "pet_name": "Coco",
+        "pet_image": "https://i.ibb.co/nsSKV7g/dog8.jpg",
+        "pet_age": 2,
+        "pet_location": "Urban Oasis",
+        "short_description": "Playful and charming",
+        "long_description": "Coco is a playful and charming dog, always ready for a game of fetch or a cozy evening at home.",
+        "adopted": "false"
+        },
+        {
+        "category": "Dogs",
+        "pet_name": "Rusty",
+        "pet_image": "https://i.ibb.co/5vXzZ3n/dog9.jpg",
+        "pet_age": 5,
+        "pet_location": "Rustic Cabin",
+        "short_description": "Adventurous and loyal",
+        "long_description": "Rusty is an adventurous dog with a heart of gold. Loyal companion for outdoor enthusiasts and nature lovers.",
+        "adopted": "false"
+        },
+    
+        {
+        "category": "Cats",
+        "pet_name": "Whiskers",
+        "pet_image": "https://i.ibb.co/KVdsbYg/cat1-1.jpg",
+        "pet_age": 1,
+        "pet_location": "Cozy Corner",
+        "short_description": "Cuddly and independent",
+        "long_description": "Whiskers is a sweet cat who enjoys cuddling but also values independent playtime. Perfect for a loving home.",
+        "adopted": "false"
+        },
+        {
+        "category": "Cats",
+        "pet_name": "Mittens",
+        "pet_image": "https://i.ibb.co/SrQgcyt/cat2.jpg",
+        "pet_age": 4,
+        "pet_location": "Urban Loft",
+        "short_description": "Graceful and affectionate",
+        "long_description": "Mittens is a graceful cat who loves being pampered. Affectionate and enjoys lounging by the window.",
+        "adopted": "false"
+        },
+        {
+        "category": "Cats",
+        "pet_name": "Oreo",
+        "pet_image": "https://i.ibb.co/3FwP4Ck/cat3.jpg",
+        "pet_age": 2,
+        "pet_location": "Downtown Apartment",
+        "short_description": "Playful and curious",
+        "long_description": "Oreo is a playful cat with a curious nature. Enjoys exploring new spaces and chasing feather toys.",
+        "adopted": "false"
+        },
+        {
+        "category": "Cats",
+        "pet_name": "Shadow",
+        "pet_image": "https://i.ibb.co/G58fvSW/cat4.jpg",
+        "pet_age": 2,
+        "pet_location": "City Apartment",
+        "short_description": "Mysterious and playful",
+        "long_description": "Shadow is a mysterious and playful cat, blending into the urban landscape while entertaining with acrobatic antics.",
+        "adopted": "false"
+        },
+        {
+        "category": "Cats",
+        "pet_name": "Oliver",
+        "pet_image": "https://i.ibb.co/CsSWpBV/cat5.jpg",
+        "pet_age": 3,
+        "pet_location": "Coastal Retreat",
+        "short_description": "Charming and elegant",
+        "long_description": "Oliver is a charming and elegant cat, gracing any home with poise. Enjoys lounging by the window and sunbathing.",
+        "adopted": "false"
+        },
+        {
+        "category": "Cats",
+        "pet_name": "Mocha",
+        "pet_image": "https://i.ibb.co/R41r98Q/cat6.jpg",
+        "pet_age": 1,
+        "pet_location": "Coffee Shop Corner",
+        "short_description": "Curious and affectionate",
+        "long_description": "Mocha is a curious and affectionate cat, adding warmth to any corner. Enjoys exploring and cuddling with a good book.",
+        "adopted": "false"
+        },
+        {
+        "category": "Cats",
+        "pet_name": "Whiskey",
+        "pet_image": "https://i.ibb.co/dbYYpSL/cat7.jpg",
+        "pet_age": 4,
+        "pet_location": "Bookstore Nook",
+        "short_description": "Sophisticated and independent",
+        "long_description": "Whiskey is a sophisticated and independent cat, finding solace in a cozy bookstore nook and enjoying solitude.",
+        "adopted": "false"
+        },
+        {
+        "category": "Cats",
+        "pet_name": "Cleo",
+        "pet_image": "https://i.ibb.co/nnNZqQy/cat8.jpg",
+        "pet_age": 2,
+        "pet_location": "Art Studio",
+        "short_description": "Artistic and graceful",
+        "long_description": "Cleo is an artistic and graceful cat, inspiring creativity in her home. Enjoys observing the world with a keen eye.",
+        "adopted": "false"
+        },
+        {
+        "category": "Cats",
+        "pet_name": "Leo",
+        "pet_image": "https://i.ibb.co/6rPynFQ/cat9.jpg",
+        "pet_age": 5,
+        "pet_location": "Gallery Loft",
+        "short_description": "Regal and wise",
+        "long_description": "Leo is a regal and wise cat, residing in a gallery loft. Adds a touch of sophistication to any art lover's life.",
+        "adopted": "false"
+        },
+    
+        {
+        "category": "Birds",
+        "pet_name": "Sunny",
+        "pet_image": "https://i.ibb.co/ZcSrjwM/bird1.jpg",
+        "pet_age": 1,
+        "pet_location": "Aviary Garden",
+        "short_description": "Colorful and chirpy",
+        "long_description": "Sunny is a vibrant bird with beautiful plumage. Loves singing and brightening up any room with cheerful presence.",
+        "adopted": "false"
+        },
+        {
+        "category": "Birds",
+        "pet_name": "Feather",
+        "pet_image": "https://i.ibb.co/bR4ZqBd/bird2.jpg",
+        "pet_age": 2,
+        "pet_location": "Tropical Paradise",
+        "short_description": "Playful and talkative",
+        "long_description": "Feather is a talkative bird with a playful personality. Enjoys interactive toys and mimicking sounds.",
+        "adopted": "false"
+        },
+        {
+        "category": "Birds",
+        "pet_name": "Sky",
+        "pet_image": "https://i.ibb.co/M82ym9n/bird3.jpg",
+        "pet_age": 3,
+        "pet_location": "Sky Loft",
+        "short_description": "Elegant and majestic",
+        "long_description": "Sky is an elegant bird with majestic wings. Enjoys perching on high places and observing the world below.",
+        "adopted": "false"
+        },
+        {
+        "category": "Birds",
+        "pet_name": "Star",
+        "pet_image": "https://i.ibb.co/rw5Cg6W/bird4.jpg",
+        "pet_age": 1,
+        "pet_location": "Starry Perch",
+        "short_description": "Sparkling and melodious",
+        "long_description": "Star is a sparkling bird with melodious tunes. Brightens up any space with its charming personality.",
+        "adopted": "false"
+        },
+        {
+        "category": "Birds",
+        "pet_name": "Wings",
+        "pet_image": "https://i.ibb.co/L1dFJDm/bird5.jpg",
+        "pet_age": 2,
+        "pet_location": "Feathery Haven",
+        "short_description": "Graceful and free-spirited",
+        "long_description": "Wings is a graceful bird with a free-spirited nature. Enjoys gliding through the air and bringing joy to all around.",
+        "adopted": "false"
+        },
+        {
+        "category": "Birds",
+        "pet_name": "Echo",
+        "pet_image": "https://i.ibb.co/PDXhX6c/bird6.jpg",
+        "pet_age": 3,
+        "pet_location": "Echoing Nest",
+        "short_description": "Vocal and charming",
+        "long_description": "Echo is a vocal bird with a charming personality. Loves engaging in conversations and echoing cheerful tunes.",
+        "adopted": "false"
+        },
+        {
+        "category": "Birds",
+        "pet_name": "Breeze",
+        "pet_image": "https://i.ibb.co/sW9RYpZ/bird7.jpg",
+        "pet_age": 2,
+        "pet_location": "Breezy Roost",
+        "short_description": "Gentle and refreshing",
+        "long_description": "Breeze is a gentle bird with a refreshing presence. Enjoys gentle breezes and creating a soothing atmosphere.",
+        "adopted": "false"
+        },
+        {
+        "category": "Birds",
+        "pet_name": "Pebbles",
+        "pet_image": "https://i.ibb.co/m9nX1N5/bird8.jpg",
+        "pet_age": 1,
+        "pet_location": "Rocky Perch",
+        "short_description": "Playful and resilient",
+        "long_description": "Pebbles is a playful bird with a resilient spirit. Enjoys hopping around rocky perches and exploring the surroundings.",
+        "adopted": "false"
+        },
+        {
+        "category": "Birds",
+        "pet_name": "Aurora",
+        "pet_image": "https://i.ibb.co/HHYkgb4/bird9.jpg",
+        "pet_age": 3,
+        "pet_location": "Northern Lights Aviary",
+        "short_description": "Mystical and enchanting",
+        "long_description": "Aurora is a mystical bird with enchanting plumage. Radiates beauty akin to the northern lights and captivates with its presence.",
+        "adopted": "false"
+        },
+    
+        {
+            "category": "Rabbits",
+            "pet_name": "Cotton",
+            "pet_image": "https://i.ibb.co/wRLr4VR/rabbit1.jpg",
+            "pet_age": 1,
+            "pet_location": "Bunny Haven",
+            "short_description": "Adorable and gentle",
+            "long_description": "Cotton is an adorable rabbit with a gentle disposition. Loves hopping around and munching on fresh veggies.",
+            "adopted": "false"
+        },
+        {
+            "category": "Rabbits",
+            "pet_name": "Thumper",
+            "pet_image": "https://i.ibb.co/HKr6cBJ/rabbit2.jpg",
+            "pet_age": 3,
+            "pet_location": "Grassy Meadow",
+            "short_description": "Playful and curious",
+            "long_description": "Thumper is a curious rabbit who loves exploring. Playful antics and soft fur make an ideal companion for any family.",
+            "adopted": "false"
+        },
+        {
+            "category": "Rabbits",
+            "pet_name": "Snowball",
+            "pet_image": "https://i.ibb.co/kgK3QQC/rabbit3.jpg",
+            "pet_age": 2,
+            "pet_location": "Snowy Burrow",
+            "short_description": "Fluffy and charming",
+            "long_description": "Snowball is a charming rabbit with a fluffy coat. Enjoys burrowing in soft bedding and loves gentle cuddles.",
+            "adopted": "false"
+        },
+        {
+            "category": "Rabbits",
+            "pet_name": "Maple",
+            "pet_image": "https://i.ibb.co/0YHfzmH/rabbit4.jpg",
+            "pet_age": 1,
+            "pet_location": "Maple Meadows",
+            "short_description": "Sweet and playful",
+            "long_description": "Maple is a sweet and playful rabbit, bringing joy to any home. Enjoys nibbling on fresh greens and hopping around.",
+            "adopted": "false"
+        },
+        {
+            "category": "Rabbits",
+            "pet_name": "Bunny",
+            "pet_image": "https://i.ibb.co/0nDc63g/rabbit5.jpg",
+            "pet_age": 4,
+            "pet_location": "Bunny Burrow",
+            "short_description": "Energetic and friendly",
+            "long_description": "Bunny is an energetic and friendly rabbit, always ready for playtime. Loves exploring and socializing with other bunnies.",
+            "adopted": "false"
+        },
+        {
+            "category": "Rabbits",
+            "pet_name": "Hazel",
+            "pet_image": "https://i.ibb.co/bPYkHTq/rabbit6.jpg",
+            "pet_age": 2,
+            "pet_location": "Hazel Hideaway",
+            "short_description": "Gentle and inquisitive",
+            "long_description": "Hazel is a gentle and inquisitive rabbit, known for her soft fur and curiosity. Enjoys quiet moments and cuddles.",
+            "adopted": "false"
+        },
+        {
+            "category": "Rabbits",
+            "pet_name": "Marshmallow",
+            "pet_image": "https://i.ibb.co/LJCrTdg/rabbit7.jpg",
+            "pet_age": 3,
+            "pet_location": "Marshmallow Mansion",
+            "short_description": "Fluffy and lovable",
+            "long_description": "Marshmallow is a fluffy and lovable rabbit, turning every moment into a delightful experience. Enjoys treats and cozy corners.",
+            "adopted": "false"
+        },
+        {
+            "category": "Rabbits",
+            "pet_name": "Thistle",
+            "pet_image": "https://i.ibb.co/T8BHymk/rabbit8.jpg",
+            "pet_age": 1,
+            "pet_location": "Thistle Retreat",
+            "short_description": "Tiny and playful",
+            "long_description": "Thistle is a tiny and playful rabbit, bringing joy with every hop. Enjoys interactive toys and sunny spots for lounging.",
+            "adopted": "false"
+        },
+        {
+            "category": "Rabbits",
+            "pet_name": "Sunny",
+            "pet_image": "https://i.ibb.co/Nn7DfxX/rabbit9.jpg",
+            "pet_age": 2,
+            "pet_location": "Sunny Glade",
+            "short_description": "Bright and cheerful",
+            "long_description": "Sunny is a bright and cheerful rabbit, spreading happiness wherever she goes. Enjoys basking in the sunlight and nibbling on greens.",
+            "adopted": "false"
+        }
+        ]
