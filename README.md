@@ -16,7 +16,7 @@
 and more... <br>
 
 ## Features of this web site: 
-* People can create there account using email and password . aslo can login with social login system like Google, Facebook, Github .etc.. <br>
+* People can create they are account using email and password . aslo can login with social login system like Google, Facebook, Github .etc.. <br>
 * User can add pet for adoption.<br>
 * other user who need to adopt pet , he/ she can see all pet listing those pet available for adoption <br>
 * aslo user can create donation campaign for his / her pet. <br>
